@@ -1,0 +1,8 @@
+C:\Users\lokaster\Desktop\Angela_VT\Angela_VT_06\Angela_VT_06\bin\Debug\Angela_VT_06.exe
+C:\Users\lokaster\Desktop\Angela_VT\Angela_VT_06\Angela_VT_06\bin\Debug\Angela_VT_06.pdb
+C:\Users\lokaster\Desktop\Angela_VT\Angela_VT_06\Angela_VT_06\obj\x86\Debug\Angela_VT_06.Form1.resources
+C:\Users\lokaster\Desktop\Angela_VT\Angela_VT_06\Angela_VT_06\obj\x86\Debug\Angela_VT_06.Properties.Resources.resources
+C:\Users\lokaster\Desktop\Angela_VT\Angela_VT_06\Angela_VT_06\obj\x86\Debug\Angela_VT_06.csproj.GenerateResource.Cache
+C:\Users\lokaster\Desktop\Angela_VT\Angela_VT_06\Angela_VT_06\obj\x86\Debug\Angela_VT_06.exe
+C:\Users\lokaster\Desktop\Angela_VT\Angela_VT_06\Angela_VT_06\obj\x86\Debug\Angela_VT_06.pdb
+C:\Users\lokaster\Desktop\Angela_VT\Angela_VT_06\Angela_VT_06\obj\x86\Debug\Angela_VT_06.csprojResolveAssemblyReference.cache
